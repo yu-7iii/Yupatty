@@ -1,0 +1,2 @@
+# Yupatty
+python exercises
